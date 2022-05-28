@@ -6,4 +6,4 @@ Uses a Breath-First Search algorithm.
 Required libraries: pandas, shapely
 
 Known bugs:
-If the point is outside the range of the multi-line (at the last or first point of the divided multi-line), the Breath-First Search version of the code does not run, only the single iteration version.
+If the point is outside the range of the multi-line (at or beyond the last or first point of the divided multi-line), the Breath-First Search version of the code does not run, only the single iteration version.
