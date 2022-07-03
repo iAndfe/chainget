@@ -2,14 +2,14 @@
 Obtains the location/chainage of a point relative to a multi-line, and it's distance/offset from the multi-line. Uses a Breath-First Search algorithm.
 
 
-Required libraries: pandas, shapely
+Required libraries: pandas, shapely, openpyxl
 
 
 Inputs required:
 
-A csv file of the points you wish to process (with x and y as headers)
+A xlsx file of the points you wish to process (with x and y as headers)
 
-A csv file of the multi-line you wish to process (with x and y as headers)
+A xlsx file of the multi-line you wish to process (with x and y as headers)
 
 
 Known bugs:
